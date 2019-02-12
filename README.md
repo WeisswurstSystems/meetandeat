@@ -1,4 +1,4 @@
-# wwm
+# meetandeat
 
 ## Project setup
 ```
